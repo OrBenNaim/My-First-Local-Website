@@ -1,0 +1,22 @@
+# Ignore database files
+users_data.db
+
+# Ignore Node.js files
+package.json
+package-lock.json
+
+# Ignore VSCode workspace settings
+.vscode/
+
+# Ignore build folders
+dist/
+build/
+
+# Ignore compiled files (like .dll, .exe for C++ projects, or .pyc for Python projects)
+*.dll
+*.exe
+*.pyc
+
+# Ignore environment variable files
+.env
+
